@@ -1,3 +1,5 @@
+# Deployed to GCP 18-10-2023 Togay Tunca
+
 # MLOps deployment to Azure Container Apps
 
 _Take advantage of insta-scaling for live inferencing_
